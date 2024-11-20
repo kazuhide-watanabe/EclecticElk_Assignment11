@@ -1,4 +1,4 @@
-#deleteDupe.py
+# deleteDupe.py
 
 def delete_duplicates(data):
     """

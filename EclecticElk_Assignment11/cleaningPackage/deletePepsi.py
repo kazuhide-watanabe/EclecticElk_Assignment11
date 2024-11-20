@@ -1,3 +1,5 @@
+# deletePepsi.py
+
 import csv
 
 def handle_pepsi_purchases(data, anomalies_path):
