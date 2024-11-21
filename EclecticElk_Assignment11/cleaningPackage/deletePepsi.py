@@ -1,3 +1,20 @@
+#*********************************
+# Name: Kazuhide Watanabe, Alex Carnes, Alex Patton, Kyle Hsu
+# email:  watanake@mail.uc.edu
+#         carnesas@mail.uc.edu
+#         pattona6@mail.uc.edu
+#         hsukt@mail.uc.edu
+# Assignment Number: Assignment 11
+# Due Date:  11/21/2024
+# Course #/Section: IS 4010/001 
+# Semester/Year:   Fall/2024
+# Brief Description of the assignment: Group project where a csv file needs to be cleaned up through certain instructions in order for it to be more presentable.
+# Brief Description of what this module does: Creates a class called fridge and sets a default temperature for the fridge once it is plugged in. 
+# After that you are able to change the temperature of the fidge between a cetain range. 
+# Citations: In class notes, Bill Nicholson
+# Anything else that's relevant:  This file was completed by Alex Carnes and Kazu Watanabe
+#**********************************
+
 # deletePepsi.py
 
 import csv
