@@ -25,6 +25,9 @@ from cleaningPackage.updateZip import *
 
 
 def main():
+    """
+    Orchestrates the entire data cleaning process:
+    """
     # Paths to data files
     input_csv = 'Data/fuelPurchaseData.csv'
     anomalies_csv = 'Data/dataAnomalies.csv'

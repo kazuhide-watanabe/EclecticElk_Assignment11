@@ -52,7 +52,7 @@ def extract_missing_zip_addresses(data, output_path):
         writer.writerow(output_header)  # Write header
         writer.writerows(missing_zip_rows)  # Write rows with missing zips
 
-    print(f"Missing zip addresses written to {output_path}")
+    # print(f"Missing zip addresses written to {output_path}")
 
 
 def extract_city_and_state(full_address):
